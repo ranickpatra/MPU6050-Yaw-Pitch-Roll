@@ -22,7 +22,7 @@ void setup() {
 
   Wire.begin();           //Initiate the Wire library and join the I2C bus as a master
   /*set clockspeed 400KHz for fast access default is 100 KHz
-   * if you want to use default one just comment out line 14
+   * if you want to use default one just comment out line 27
   */
   Wire.setClock(400000);
   //wait for some time to get ready MPU6050
