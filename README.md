@@ -7,4 +7,13 @@
 
 CREATED BY RANICK PATRA 11.01.2018
 
+Serial input for reset yaw angle
+
+![](program_short.png)
+
+Serial output data
+
+![](serial_data.png)
+
+
 
