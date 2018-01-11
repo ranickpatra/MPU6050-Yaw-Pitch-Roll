@@ -15,5 +15,8 @@ Serial output data
 
 ![](serial_data.png)
 
+Connections with MPU6050
+
+![](connections.jpg)
 
 
